@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.8.4.3">
+    <Preset Name="Full S" Guid="72 E1 4A E8 AA 68 10 06 F2 C6 D8 13 02 1C 40 77" Active="No" ShuffleMode="Auto" Xinv="No" XinvB="No" XinvG="No" XinvW="No" Yinv="No" YinvB="No" YinvG="No" YinvW="No" Zinv="No" ZinvB="No" ZinvG="No" ZinvW="No" InvertX="No" InvertY="No" InvertZ="No" MAgic="No" Mode="0">
+        <PresetData Size="10">
+            <Phaser IDType="0" ID="1" Attribute="Dimmer" GridPos="0" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="2" Attribute="Dimmer" GridPos="1" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="3" Attribute="Dimmer" GridPos="2" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="4" Attribute="Dimmer" GridPos="3" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="5" Attribute="Dimmer" GridPos="4" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="6" Attribute="Dimmer" GridPos="5" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="7" Attribute="Dimmer" GridPos="6" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="8" Attribute="Dimmer" GridPos="7" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="9" Attribute="Dimmer" GridPos="8" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+            <Phaser IDType="0" ID="10" Attribute="Dimmer" GridPos="9" Selective="true">
+                <Step Function="Dimmer" Absolute="100" />
+            </Phaser>
+        </PresetData>
+    </Preset>
+</GMA3>
