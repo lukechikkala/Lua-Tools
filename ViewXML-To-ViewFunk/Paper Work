@@ -1,0 +1,42 @@
+Window Names:
+	Window3D
+	WindowMatricks
+	WindowSelectionView
+	WindowPresetPool
+	WindowGroupPool
+	WindowPresetPool
+	WindowPresetPool
+	WindowPresetPool
+	WindowPresetPool
+	WindowPresetPool
+	WindowPresetPool
+
+Hint:
+------------------------------------------
+<ViewWidget Name="
+------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Window Settings:
+	View3DSettings
+	MatricksWindowSettings
+	SelectionViewSettings
+	PresetPoolSettings
+	PoolSettings
+
+Hint:
+------------------------------------------
+">
+            <
+------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Window Setting Objects:
+	Camera
+	RenderQuality
+	Stage
+	Camera
+
+Hint:
+------------------------------------------
+>
+                <.*>
+------------------------------------------
