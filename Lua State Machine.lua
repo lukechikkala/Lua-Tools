@@ -35,7 +35,6 @@
 
 return function()
     local MySequence  = DataPool().Sequences[ 1 ]
-    local Status      = true
     local SendSequOn  = true
     local SendSequOff = true
 
